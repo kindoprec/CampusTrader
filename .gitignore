@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+*.DS_STORE
+
+node_modules/
+.idea/
+
+checkout.html
+product.html
